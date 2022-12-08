@@ -1,0 +1,10 @@
+opencv-python
+numpy
+split-folders
+matplotlib
+notebook
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+torchvision
+torchaudio
+ffmpeg-python
